@@ -1,5 +1,4 @@
 dash
-dash-dcc
 flask
 flask-restful
 gunicorn
